@@ -1,0 +1,24 @@
+{
+  "name": "metadata-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immutable/metadata-tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/immutable/metadata-tools/issues"
+  },
+  "homepage": "https://github.com/immutable/metadata-tools#readme",
+  "dependencies": {
+    "@pinata/sdk": "^2.1.0",
+    "dotenv": "^16.0.3",
+    "web3.storage": "^4.5.4"
+  }
+}
